@@ -124,10 +124,10 @@ while (entrada != "ESC") {
         case "Facu":
         alert("HOLA FACU");
         break;
-    case "Pedro":
+        case "Pedro":
         alert("HOLA PEDRO");
         break;
-    default:
+        default:
         alert("USUARIO NO IDENTIFICADO - INGRESE (ESC) PARA FINALIZAR");
         break;
 }
