@@ -1,0 +1,17 @@
+#carrito {
+    transition: all 0.5s;
+}
+
+#carrito.agregado {
+    transform: scale(1.1);
+}
+
+body {
+    background-color: bisque;
+}
+
+h1 {
+    display: flex;
+    flex: auto;
+    justify-content: center;
+}

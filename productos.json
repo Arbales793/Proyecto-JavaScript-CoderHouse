@@ -1,0 +1,6 @@
+[
+    { "id": 1, "nombre": "guitarra", "precio": 5000 },
+    { "id": 2, "nombre": "bateria", "precio": 11000 },
+    { "id": 3, "nombre": "bajo", "precio": 2000 },
+    { "id": 4, "nombre": "pandereta", "precio": 100 }
+]
